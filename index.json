@@ -1,5 +1,13 @@
 [
     {
+        "fileVersion": 16909584,
+        "fileSize": 142972,
+        "manufacturerCode": 4364,
+        "imageType": 2,
+        "url": "https://github.com/christerr/zigbee-OTA/raw/master/images/Osram/ZLL_MK_0x01020510_LIGHTIFY_INDOOR_FLEX.ota",
+        "path": "images/Osram/ZLL_MK_0x01020510_LIGHTIFY_INDOOR_FLEX.ota"
+    },
+    {
         "fileVersion": 1107326256,
         "fileSize": 256632,
         "manufacturerCode": 4107,
